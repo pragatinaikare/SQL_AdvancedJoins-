@@ -6,7 +6,7 @@ Write a query to print total number of unique hackers who made at least 1 submis
 
 
 
-Answer:
+#### Answer:
 
 SELECT SUBMISSION_DATE
 	,(
